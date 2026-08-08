@@ -40,7 +40,7 @@ I build modern, scalable web applications with a focus on clean architecture, in
 ![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=white)
-![RESTAPI](https://img.shields.io/badge/RestAPI-181717?style=flat-square&logo=fastapi&logoColor=white)
+![RESTAPI](https://img.shields.io/badge/RestAPI-181717?style=flat-square&logo=restapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-181717?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Tools
