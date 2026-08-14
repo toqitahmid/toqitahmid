@@ -3,10 +3,10 @@
 # Hey, I'm Toqi 👋
 
 ### MERN Stack Developer 
+
 I build modern, scalable web applications with a focus on clean architecture, intuitive user experiences, and continuous learning.
+
 <br />
-
-
 
 </div>
 
@@ -27,47 +27,29 @@ I build modern, scalable web applications with a focus on clean architecture, in
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Icons" />
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-181717?style=flat-square&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-181717?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend Icons" />
+
+<img src="https://img.shields.io/badge/REST_API-4A5568?style=flat&logo=fastapi&logoColor=white" alt="REST API" />      <img src="https://img.shields.io/badge/JWT-2D3748?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Tools Icons" />
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-181717?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages Icons" />
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toqitahmid&hide_border=true&theme=transparent" height="165" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toqitahmid&hide_border=true&theme=transparent" height="280" />
 <br />
-
-
 </div>
 
 ---
@@ -75,6 +57,7 @@ I build modern, scalable web applications with a focus on clean architecture, in
 <div align="center">
 
 ### "Build. Break. Learn. Repeat."
+
 <a href="https://github.com/toqitahmid">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
