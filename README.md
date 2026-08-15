@@ -44,12 +44,10 @@ I build modern, scalable web applications with a focus on clean architecture, in
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages Icons" />
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toqitahmid&hide_border=true&theme=transparent" height="280" />
-<br />
+## 📊 GitHub Stats:
+<div align='center'>
+  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=toqitahmid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
