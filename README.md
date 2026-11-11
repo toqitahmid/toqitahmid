@@ -52,7 +52,7 @@ I build modern, scalable web applications with a focus on clean architecture, in
 
 <br />
 
-<img src="https://github-readme-stats.shion.dev/api/?username=toqitahmid&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" height="160" />
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toqitahmid&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="160" />
 
 </div>
