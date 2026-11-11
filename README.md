@@ -23,33 +23,39 @@ I build modern, scalable web applications with a focus on clean architecture, in
 
 ---
 
-## Tech Stack
+## Technologies & Tools
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Icons" />
 
-### Backend & Database
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend Icons" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,postman" alt="Backend and Database Icons" />
 
 <img src="https://img.shields.io/badge/REST_API-4A5568?style=flat&logo=fastapi&logoColor=white" alt="REST API" />      <img src="https://img.shields.io/badge/JWT-2D3748?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
-### Tools
+### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Tools Icons" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vercel" alt="DevOps Icons" />
 
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages Icons" />
 
 ---
-## 📊 GitHub Stats:
-<div align='center'>
-  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=toqitahmid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=toqitahmid&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.shion.dev/api/?username=toqitahmid&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toqitahmid&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="160" />
+
+</div>
 ---
 
 <div align="center">
