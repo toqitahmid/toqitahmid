@@ -33,12 +33,11 @@ I build scalable SaaS applications and AI-powered systems, from clean backend ar
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Icons" />
 
 ### Backend
-
-<img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,fastapi,restapi,jwt" alt="Backend and Database Icons" />
+<img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,fastapi" alt="Backend Icons" /> <img src="https://cdn.simpleicons.org/swagger" alt="REST API" width="48" height="48" /> <img src="https://cdn.simpleicons.org/jsonwebtokens/d63aff" alt="JWT" width="48" height="48" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,postman" alt="Backend and Database Icons" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,postman" alt="Backend and Database Icons" />
 
 ### DevOps & Infrastructure
 
@@ -46,7 +45,7 @@ I build scalable SaaS applications and AI-powered systems, from clean backend ar
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,figma" alt="Programming Languages Icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java" alt="Programming Languages Icons" />
 
 ---
 ## 📊 GitHub Stats
