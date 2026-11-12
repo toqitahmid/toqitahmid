@@ -1,12 +1,13 @@
 <div align="center">
-
 # Hey, I'm Toqi 👋
 
-### MERN Stack Developer 
+### Full-Stack & AI Engineer
 
-I build modern, scalable web applications with a focus on clean architecture, intuitive user experiences, and continuous learning.
+I build scalable SaaS applications and AI-powered systems, from clean backend architecture and secure APIs to production deployment.
 
 <br />
+
+<img src="./github%20readme.PNG" alt="Toqi's Banner" width="100%" />
 
 </div>
 
@@ -14,11 +15,13 @@ I build modern, scalable web applications with a focus on clean architecture, in
 
 ## About Me
 
-- 🚀 Building full-stack applications with the **MERN stack**
-- ⚛️ Working with **React** and **Next.js** to create modern web experiences
-- 🛠️ Building backend APIs with **Node.js** and **Express.js**
-- 🗄️ Working with **MongoDB** and REST APIs
-- 🧠 Strengthening my problem-solving and data structures knowledge
+
+- 🚀 Building production-ready **full-stack applications** with **Next.js**, **Node.js**, **NestJS** and **TypeScript**
+- 🔐 Designing secure systems with **authentication**, **RBAC** and **multi-tenant architecture**
+- 🗄️ Working with **PostgreSQL**, **Drizzle ORM**, **Redis** and **vector databases**
+- 🤖 Engineering AI features: **LLMs**, **RAG**, **LangChain**, **multi-agent systems**, **tool calling** and **AI guardrails**
+- ☁️ Shipping with **Docker**, **NGINX**, **AWS**, **GitHub Actions** and **CI/CD** on **VPS** infrastructure
+- 🧠 Focused on **clean code**, **system design**, **testing** and **scalability**
 - 📚 Always learning, building, and improving
 
 ---
@@ -58,7 +61,6 @@ I build modern, scalable web applications with a focus on clean architecture, in
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toqitahmid&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="160" />
 
 </div>
----
 
 <div align="center">
 
