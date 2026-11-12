@@ -1,13 +1,10 @@
 <div align="center">
-# Hey, I'm Toqi 👋
 
-### Full-Stack & AI Engineer
-
-I build scalable SaaS applications and AI-powered systems, from clean backend architecture and secure APIs to production deployment.
+![Toqi Tahmid — Full Stack Web Developer](./cover.SVG)
 
 <br />
 
-![Toqi Tahmid — Full Stack Web Developer](./cover.SVG)
+I build scalable SaaS applications and AI-powered systems, from clean backend architecture and secure APIs to production deployment.
 
 </div>
 
