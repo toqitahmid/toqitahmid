@@ -7,7 +7,7 @@ I build scalable SaaS applications and AI-powered systems, from clean backend ar
 
 <br />
 
-<img src="./github%20readme.PNG" alt="Toqi's Banner" width="100%" />
+![Toqi Tahmid — Full Stack Web Developer](./cover.SVG)
 
 </div>
 
