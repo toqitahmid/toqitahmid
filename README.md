@@ -27,21 +27,23 @@ I build modern, scalable web applications with a focus on clean architecture, in
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Icons" />
 
-### Backend & Databases
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,postman" alt="Backend and Database Icons" />
+<img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,fastapi,restapi,jwt" alt="Backend and Database Icons" />
 
-<img src="https://img.shields.io/badge/REST_API-4A5568?style=flat&logo=fastapi&logoColor=white" alt="REST API" />      <img src="https://img.shields.io/badge/JWT-2D3748?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,postman" alt="Backend and Database Icons" />
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vercel" alt="DevOps Icons" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vercel" alt="DevOps Icons" />
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages Icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,figma" alt="Programming Languages Icons" />
 
 ---
 ## 📊 GitHub Stats
